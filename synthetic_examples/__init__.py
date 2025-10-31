@@ -1,0 +1,1 @@
+# This file makes synthetic_examples a Python package
