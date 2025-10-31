@@ -22,19 +22,21 @@ measures that legally restrict others from doing anything the license permits.
 
 ### Citation
 
-If you use this code or data in your research, please cite:
+If you use this code in your research, please cite:
 
-Balza, A., Wagner, F., & Maurer, H.R. (2025). *Structure-based joint inversion for implicit geological models.*  
-*Geophysical Journal International.*  
-[DOI link if available]
+Balza, A. et al. (2025). *Structure-based joint inversion for implicit geological models.* Geophysical Journal International.
 
-BibTeX:
-@article{balza2025structurebased,
-  author = {Balza, A. and Wagner, F. and Maurer, H.R.},
-  title = {Structure-based joint inversion for implicit geological models},
-  journal = {Geophysical Journal International},
-  year = {2025}
+```bibtex
+@article{BalzaMorales2025StructureBased,
+  title        = {Structure-based geophysical inversion using implicit geological models},
+  author       = {Balza Morales, Andrea and Förderer, Aaron and Wellmann, Florian and Maurer, Hansruedi and Wagner, Florian M.},
+  year         = {2025},
+  journal      = {Geophysical Journal International},
+  note         = {Submitted manuscript},
+  month        = {July},
+  institution  = {RWTH Aachen University and ETH Zurich},
 }
+```
 
 ### Disclaimer
 
