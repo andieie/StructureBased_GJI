@@ -63,7 +63,7 @@ If you use this code in your research, please cite:
 
 Balza, A. et al. (2025). *Structure-based joint inversion for implicit geological models.* Geophysical Journal International.
 
-BibTeX:
+```bibtex
 @article{BalzaMorales2025StructureBased,
   title        = {Structure-based geophysical inversion using implicit geological models},
   author       = {Balza Morales, Andrea and Förderer, Aaron and Wellmann, Florian and Maurer, Hansruedi and Wagner, Florian M.},
@@ -73,6 +73,7 @@ BibTeX:
   month        = {July},
   institution  = {RWTH Aachen University and ETH Zurich},
 }
+```
 
 
 Funding for this project was provided by the European
