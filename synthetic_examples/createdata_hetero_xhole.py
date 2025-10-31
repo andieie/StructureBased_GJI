@@ -259,7 +259,8 @@ def setup_tt_sensors_and_scheme():
         
     Notes
     -----
-    If no external scheme file is available, uses a fallback approach.
+    If no external scheme file is available, uses a fallback approach. Scheme file should
+    be under the data folder.
     """
     # Check for scheme file in data directory (relative to script location)
     scheme_file = 'data/scheme.sgt'
